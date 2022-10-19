@@ -1,0 +1,7 @@
+{
+    "Lua.diagnostics.globals": [
+        "originPoint",
+        "I"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
